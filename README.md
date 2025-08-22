@@ -28,7 +28,7 @@
 | Projeto | Descrição |
 |--------|-----------|
 | [ProjetoAutonomize](https://github.com/daniellecpereira/ProjetoAutonomize) | Sistema de estoque e vendas utilizando C# |
-| [projetofrontendcuidapet](https://github.com/daniellecpereira/projetofrontendcuidapet) | Projeto frontend HTML/CSS/Javascript para simulação de clínica pet |
+| [projetofrontendcuidapet](https://github.com/daniellecpereira/projetofrontendcuidapet) | Projeto frontend HTML/CSS/Javascript |
 | [mf-dev-back-end-2025](https://github.com/daniellecpereira/mf-dev-back-end-2025) | Backend inicial com estrutura HTML e arquivos de apoio |
 
 ---
